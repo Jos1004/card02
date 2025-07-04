@@ -174,7 +174,7 @@ a:hover{
 #cancel:hover{
     color:#1F2E55;
 }
-@media (max-width: 600px){
+@media (max-width: 720px){
 
 body{
     background-image: linear-gradient(180deg, #D6E1FF 16%, #E0E8FF 15%);
